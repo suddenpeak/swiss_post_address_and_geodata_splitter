@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SplitChPostFileKt" type="JetRunConfigurationType" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="SplitChPostFileKt" />
+    <module name="PostSwissAddressFileSpliter.main" />
+    <option name="PROGRAM_PARAMETERS" value="Post_Adressdaten20230221.csv" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
